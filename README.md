@@ -1,18 +1,36 @@
-Este proyecto marca el inicio de mi trayectoria como analista de datos, y está centrado en dominar los fundamentos de programación en Python. El objetivo era consolidar los conceptos básicos como estructuras de datos (listas, strings, enteros, booleanos), control de flujo (if, else, loops), manejo de errores, y manipulación básica de textos. Simular un entorno de aprendizaje progresivo donde se aplican estas herramientas a ejercicios prácticos que reflejan problemas cotidianos de la ciencia de datos.
+Como analista de datos en la empresa ficticia de telecomunicaciones Megaline, te enfrentas al desafío de determinar cuál de sus dos planes de prepago —Surf y Ultimate— genera mayores ingresos para la compañía. Esta decisión estratégica permitirá a la empresa redirigir sus inversiones en publicidad de forma más eficiente.
+Se te proporcionan datos de 500 clientes, incluyendo:
+
+​
+
+Datos demográficos
+
+Cantidad de llamadas realizadas
+
+Mensajes enviados
+
+Volumen de datos utilizados
+
+Ingresos generados
+
+​
+
+Este análisis no solo exige un enfoque técnico, sino también una comprensión clara del comportamiento del cliente y cómo éste se traduce en rentabilidad para el negocio.
+
 
 ⚙️ Herramientas utilizadas:
-      Python · Pandas · Jupyter Notebook
-
-​
-
-​
+      Python · Pandas · Matplotlib · Jupyter Notebook
 
 🏆 Logros alcanzados:
 
-Dominio de estructuras condicionales y bucles para tomar decisiones automáticas dentro del código.
+Limpieza y procesamiento de datos operativos de clientes.
 
-Uso de técnicas de limpieza de cadenas y formateo de datos.
+Análisis comparativo de métricas clave entre los dos planes tarifarios.
 
-Implementación de estructuras iterativas para recorrer colecciones de datos.
+Visualización de patrones de uso: llamadas, mensajes, y consumo de datos móviles.
 
-Adquisición de buenas prácticas de codificación desde el inicio del aprendizaje.
+Cálculo de ingresos generados por cliente y por tipo de tarifa.
+
+Aplicación de pruebas estadísticas (t-test) para validar si las diferencias de ingresos entre planes son estadísticamente significativas.
+
+Generación de recomendaciones de negocio basadas en evidencia analítica, con propuestas para reorientar campañas publicitarias hacia el plan más rentable.
